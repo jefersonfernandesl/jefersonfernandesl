@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/101535907?v=4"  />
-</div>
-
 ###
 
 <div align="center">
