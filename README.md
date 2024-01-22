@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jefersonfernandess.jefersonfernandess&"  />
-</div>
-
-###
-
 ###
 
 <div align="center">
@@ -56,6 +50,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jefersonfernandess&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jefersonfernandess.jefersonfernandess&"  />
 </div>
 
 ###
