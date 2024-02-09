@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 Sou um desenvolvedor Web<br>- 📚 Estou continuamente estudando sobre programação<br>- ⚡ No meu tempo livre gosto de jogar Magic.</p>
+<p align="left">- 🔭 Sou um desenvolvedor Web<br>- 📚 Estou continuamente estudando sobre programação<br>- ⚡ No meu tempo livre gosto de assistir filmes/séries ou ler algum livro.</p>
 
 ###
 
